@@ -1,0 +1,126 @@
+html {
+    font-family: sans-serif;
+}
+
+#header {
+    font-size: 100px;
+    padding-left: 1em;
+}
+
+h1 {
+    text-indent: 100px;
+    font-size: inherit;
+}
+
+
+
+
+p[class=fb] {
+    font-size: inherit;
+    text-indent: 20px;
+    position: fixed;
+    left: 1100px;
+    top: -25px;
+}
+
+p[class=clr] {
+    font-size: 50px;
+    text-indent: 20px;
+    position: fixed;
+    left: 920px;
+    top: 50px;
+}
+
+p[class=sv] {
+    font-size: 50px;
+    text-indent: 20px;
+    position: fixed;
+    left: 630px;
+    top: 50px;
+}
+
+p[class=ld] {
+    font-size: 50px;
+    text-indent: 20px;
+    position: fixed;
+    left: 60px;
+    bottom: 30px;
+}
+
+p[class=hide] {
+    font-size: 90px;
+    text-indent: 20px;
+    position: absolute;
+    left: 30px;
+    top: -20px;
+}
+
+
+
+
+[class=hide] button {
+    font-size: inherit;
+    color: rgb(0,150,0);
+    background-color: rgb(255,255,255);
+    border: none;
+    outline: none;
+}
+
+[class=ld] button {
+    font-size: inherit;
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    border: none;
+    outline: none;
+}
+
+[class=fb] button {
+    font-size: inherit;
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    border: none;
+    outline: none;
+}
+
+[class=clr] button {
+    font-size: inherit;
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    border: none;
+    outline: none;
+}
+
+[class=sv] button {
+    font-size: inherit;
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    border: none;
+    outline: none;
+}
+
+
+
+
+#sandbox {
+    font-size: 40px;
+    padding-left: 0.5em;
+}
+
+#sandbox span {
+    font-size: 25px;
+    padding-left: inherit;
+}
+
+#opB {
+    position: fixed;
+    left: 600px;
+    top: 60px; 
+    color: rgb(200,0,0);
+}
+
+#clB {
+    position: fixed;
+    left: 1300px;
+    top: 60px;
+    color: rgb(200,0,0);
+}
